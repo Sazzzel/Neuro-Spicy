@@ -3,9 +3,6 @@
 /* Lexend for the rest of the site */
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
-* {
-    
-}
 
 body {
     font-family: 'Lexend', sans-serif;
@@ -99,5 +96,3 @@ footer{
     padding: 10px;
     
 } 
-
-
