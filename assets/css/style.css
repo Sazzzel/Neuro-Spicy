@@ -10,6 +10,9 @@
 body {
     font-family: 'Lexend', sans-serif;
     background-color: #5f7dae;
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 /* Header */
@@ -55,21 +58,21 @@ body {
 
 /* Main */
 
+main {
+    background-color: #c1a9db;
+    background-size: cover;
+    
+    
+}
+
 .img-fluid {
     background-color: #c1a9db;
     position: relative;
 }
 
 .main-area {
-    background-color: #c1a9db;
-    width: 100vw;
-    height: cover;
     padding-top: 30px;
-    color: #5f7dae;
-    text-align: center;
-    
-    
-    
+    color: #5f7dae;  
 }
 
 .main-area img {
@@ -77,25 +80,28 @@ body {
     padding: 10px 30px;
     background-color: #c1a9db;
     border: none;
+    margin-bottom: 10px;
     
     
 }
 
-h1 {
+h1, h2 {
     padding-bottom: 15px;
+    
 }
 
 .main-area p {
-    margin-top: 20px;
+    margin: 0;
+    padding: 10px 15px 20px 15px;
 }
 
 
 /* Footer */
 
-/* .fixed-bottom {
-  
-} */
-
-.below {
+footer{
     background-color: #5A9DE0;
-}
+    padding: 10px;
+    
+} 
+
+
