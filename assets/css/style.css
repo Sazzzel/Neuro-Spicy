@@ -3,8 +3,13 @@
 /* Lexend for the rest of the site */
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 
+* {
+    
+}
+
 body {
     font-family: 'Lexend', sans-serif;
+    background-color: #5f7dae;
 }
 
 /* Header */
@@ -52,19 +57,45 @@ body {
 
 .img-fluid {
     background-color: #c1a9db;
+    position: relative;
+}
+
+.main-area {
+    background-color: #c1a9db;
+    width: 100vw;
+    height: cover;
+    padding-top: 30px;
+    color: #5f7dae;
+    text-align: center;
+    
+    
+    
+}
+
+.main-area img {
+    
+    padding: 10px 30px;
+    background-color: #c1a9db;
+    border: none;
+    
+    
+}
+
+h1 {
+    padding-bottom: 15px;
+}
+
+.main-area p {
+    margin-top: 20px;
 }
 
 
 /* Footer */
 
-.fixed-bottom {
-    background-color: #5A9DE0;
-    font-family: 'Fira+Mono',sans-serif;
-    font-weight: 700;
-    height: 50px;
-    
-}
+/* .fixed-bottom {
+  
+} */
 
-footer p {
-    
+.below {
+    background-color: #5A9DE0;
 }
