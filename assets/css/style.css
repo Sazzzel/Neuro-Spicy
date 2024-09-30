@@ -21,7 +21,7 @@ body {
 .navbar {
     margin-bottom: 0;
     width: 100%;
-    background-color: #c1a9db;
+    background-color: #5A9DE0;
     border: 0;
 }
 
@@ -48,10 +48,23 @@ body {
     }
 }
 
-
-
 /* Main */
 
+.img-fluid {
+    background-color: #c1a9db;
+}
 
 
 /* Footer */
+
+.fixed-bottom {
+    background-color: #5A9DE0;
+    font-family: 'Fira+Mono',sans-serif;
+    font-weight: 700;
+    height: 50px;
+    
+}
+
+footer p {
+    
+}
