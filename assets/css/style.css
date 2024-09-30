@@ -9,7 +9,44 @@ body {
 
 /* Header */
 
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
+}
 
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: #c1a9db;
+    border: 0;
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+    
+}
+
+.navbar .navbar-brand {
+    color: #5f7dae;
+    font-family: 'Fira+Mono',sans-serif;
+    font-weight: 700;
+    
+    
+}
+
+.navbar .navbar-nav a {
+    color: #5f7dae;
+    font-family: 'Fira+Mono',sans-serif;
+    font-weight: 700;
+
+    .navbar-toggler {
+        color: #5f7dae;
+    }
+}
 
 /* Main */
 
