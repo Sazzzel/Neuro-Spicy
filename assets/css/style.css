@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Lexend', sans-serif;
+    background-color: #a8abce;
 }
 
 /* Header */
@@ -20,21 +21,32 @@ body {
 }
 
 .navbar {
+    position:absolute;
+    top: 0;
     margin-bottom: 0;
     width: 100%;
     background-color: #5A9DE0;
     border: 0;
+    opacity: .8;
 }
 
 .navbar .navbar-toggler {
-    border: 0;
+  
+    position: relative;
+    border: 10; 
+    left: 80%;
+    order: -1;
+    
     
 }
+
+
 
 .navbar .navbar-brand {
     color: #5f7dae;
     font-family: 'Fira+Mono',sans-serif;
     font-weight: 700;
+    
     
     
 }
@@ -49,31 +61,74 @@ body {
     }
 }
 
-/* Main */
+.brand {
+    position: absolute;
+    top: 1%;
+    left: 1%;
 
+}
+
+.brand-title {
+    color: #403278;
+    font-family: 'Fira+Mono',sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    padding: 15px;
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+/* Main */
 main {
-    background-color: #c1a9db;
+    background-color: #a8abce;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+    z-index: 0;
 }
 
 .img-fluid {
-    background-color: #c1a9db;
+    background-color: #a8abce;
     position: relative;
+    top: -5%;
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    opacity: 0.7;
+
+
 }
 
+
 .main-area {
+    position: relative;
     padding-top: 20px;
-    color: #5f7dae;  
+    color: #403278;  
     font-size: larger;
     font-family: 'Lexend', sans-serif;
+    top: -100px;
     
 }
 
 .main-area img {
     
     padding: 0 20px 10px 20px; 
-    background-color: #c1a9db;
+    background-color: #a8abce;
     border: none;
     margin-bottom: 10px;
+    align-self: center;
+    max-width: 100%;
+    justify-content: center;
+    display: block;
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
     
     
 }
@@ -91,8 +146,23 @@ h1, h2 {
 
 /* Footer */
 
+.img-fluidBT {
+    background-color: #a8abce;
+    position: relative;
+    bottom: -100px;
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    opacity: 0.7;
+}
+
 footer{
-    background-color: #5A9DE0;
-    padding: 10px;
-    
+    top: 98%;
+    position: absolute;
 } 
+
+footer p {
+    margin: 0;
+    
+    
+}
