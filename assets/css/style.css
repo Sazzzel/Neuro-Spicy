@@ -72,7 +72,7 @@ body {
     color: #403278;
     font-family: 'Fira+Mono',sans-serif;
     font-weight: 700;
-    font-size: 1.5em;
+    font-size: 2em;
     padding: 15px;
     vertical-align: middle;
     text-align: center;
@@ -133,14 +133,23 @@ main {
     
 }
 
-h1, h2 {
+h2, h3 {
     padding-bottom: 15px;
-    
+    text-align: center;
 }
 
 .main-area p {
     margin: 0;
     padding: 10px 15px 20px 15px;
+}
+
+.accordion-preface,
+.accordion-heading,
+.accordion {
+    margin: 0;
+    padding: 0  5px 0 5px;
+    
+    
 }
 
 
