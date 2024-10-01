@@ -8,7 +8,7 @@ body {
     font-family: 'Lexend', sans-serif;
     background-color: #a8abce;
     color: #403278;  
-    font-size: larger;
+    font-size: medium;
    
     
 }
@@ -84,7 +84,7 @@ main {
     z-index: 0;
     flex: 1;
     color: #403278;  
-    font-size: larger;
+    
     font-family: 'Lexend', sans-serif;
 }
 
@@ -103,7 +103,7 @@ main {
     position: relative;
     padding-top: 20px;
     color: #403278;  
-    font-size: larger;
+    
     font-family: 'Lexend', sans-serif;
     top: -100px;
     margin-left: 10vw;
@@ -206,6 +206,11 @@ i {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media screen and (min-width: 768px) {
+    
+    body {
+        font-size: large;
+    }
+
     i {
         color: #403278;
         font-size: 8vw;
@@ -222,6 +227,10 @@ i {
 /*Extra large devices (large laptops and desktops, 1200px and up)*/
 @media screen and (min-width: 992px) {
     
+    body {
+        font-size: larger;
+    }
+
     i {
         color: #403278;
         font-size: 5vw;
