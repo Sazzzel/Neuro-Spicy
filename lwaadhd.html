@@ -19,7 +19,7 @@
 
 <body>
         <main>
-            <img loading="lazy" src="assets/images/Neuro-spicy-top.png" class="img-fluid" alt="">
+            <img loading="lazy" src="assets/images/Neuro-spicy-top.png" class="img-fluid fade-in" alt="">
 
             <section>
                 <h3 class="hidden">#</h3>
@@ -48,18 +48,29 @@
                 </div>
             </section>
 
-                    <section class="accordion-preface">
+                    <section class="accordion-preface fade-in main-area">
                         <div class="text-center">
                             <h2>Understanding and Supporting Someone with ADHD</h2>
                             <p>Living with someone who has ADHD can be both a wonderful and challenging experience. ADHD
                                 comes with its own set of unique traits, and understanding these can help foster a more
                                 supportive and harmonious relationship.</p>
-                            <img loading="lazy" class="img-thumbnail" src="assets/images/ADHD.jpg" alt="">
-                            <p>This guide is designed to help you gain insight into the everyday experiences of a person
+                            
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-sm-12 col-md-12 col-lg-6">
+                                    <img loading="lazy" class="img-thumbnail" src="assets/images/ADHD.jpg" alt="">
+                                </div>
+                                <div class="col-sm-12 col-md-12 col-lg-6">
+                                    <p>This guide is designed to help you gain insight into the everyday experiences of a person
                                 with ADHD. Each section below will highlight a common trait or behavior associated with
                                 ADHD, both its challenges and hidden strengths.
                             </p>
-                            <p><strong>Most importantly</strong>, you'll also find practical tips on how to support your
+                                </div>
+                            </div>
+                        </div>    
+                           
+                            
+                            <p><strong>Most importantly</strong>,<br> you'll also find practical tips on how to support your
                                 ADHD loved one. By embracing both the challenges and the superpowers of ADHD, you can
                                 build a stronger connection and help them thrive.</p>
                             <p><em>Click each section below to learn more about a specific aspect of ADHD and ways you
@@ -343,7 +354,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    
                     
                     
 
@@ -355,7 +366,7 @@
                                 overcome difficulties, making life brighter and more fulfilling for everyone involved.
                             </p>
                         </div>
-                        
+                    </div>
 
 
 
@@ -407,6 +418,19 @@
                     crossorigin="anonymous"></script>
                 <!-- Font Awesome kit -->
                 <script src="https://kit.fontawesome.com/1074747785.js" crossorigin="anonymous"></script>
+                <!--Fade In-->
+                <script>
+            
+                    window.onload = function() {
+                        // Select all elements with the 'fade-in' class
+                        const elements = document.querySelectorAll('.fade-in');
+                    
+                        // Add the 'visible' class to each element to trigger the fade-in
+                        elements.forEach(element => {
+                          element.classList.add('visible');
+                        });
+                      };
+                </script>
             </body>
 
 </html>

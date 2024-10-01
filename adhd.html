@@ -20,7 +20,7 @@
 <body>
 
     <main>
-        <img loading="lazy" src="assets/images/Neuro-spicy-top.png" class="img-fluid" alt="">
+        <img loading="lazy" src="assets/images/Neuro-spicy-top.png" class="img-fluid fade-in" alt="">
 
         <section>
             <h3 class="hidden">#</h3>
@@ -50,7 +50,7 @@
         </section>
 
 
-        <section class="accordion-preface">
+        <section class="accordion-preface fade-in main-area">
             <div class="text-center">
                 <h2>Embracing Life with ADHD: Your Guide to Self-Understanding</h2>
                 <p>Living with ADHD can be a wild ride, full of both incredible highs and frustrating challenges. It can
@@ -319,6 +319,19 @@
     </script>
     <!-- Font Awesome kit -->
     <script src="https://kit.fontawesome.com/1074747785.js" crossorigin="anonymous"></script>
+    <!--Fade In-->
+    <script>
+
+        window.onload = function() {
+            // Select all elements with the 'fade-in' class
+            const elements = document.querySelectorAll('.fade-in');
+        
+            // Add the 'visible' class to each element to trigger the fade-in
+            elements.forEach(element => {
+              element.classList.add('visible');
+            });
+          };
+    </script>
 </body>
 
 </html>

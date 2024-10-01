@@ -7,6 +7,9 @@
 body {
     font-family: 'Lexend', sans-serif;
     background-color: #a8abce;
+    color: #403278;  
+    font-size: larger;
+   
     
 }
 
@@ -80,7 +83,9 @@ main {
     position: relative;
     z-index: 0;
     flex: 1;
-    
+    color: #403278;  
+    font-size: larger;
+    font-family: 'Lexend', sans-serif;
 }
 
 .img-fluid {
@@ -101,7 +106,8 @@ main {
     font-size: larger;
     font-family: 'Lexend', sans-serif;
     top: -100px;
-    
+    margin-left: 10vw;
+    margin-right: 10vw;
 }
 
 .main-area img {
@@ -189,6 +195,14 @@ i {
     
 }
 
+.fade-in {
+    opacity: 0;  
+    transition: opacity 1s ease-in;
+  }
+  
+  .fade-in.visible {
+    opacity: 1;
+  }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media screen and (min-width: 768px) {
