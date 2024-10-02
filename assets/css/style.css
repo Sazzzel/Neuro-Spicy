@@ -30,6 +30,7 @@ body {
     margin-bottom: 0;
     width: 100%;
     background-color: #5A9DE0;
+    color: #403278;
     opacity: .8;
     z-index: 2;
 }
@@ -42,7 +43,7 @@ body {
 }
 
 .navbar .navbar-brand {
-    color: #5f7dae;
+    color: #403278;
     font-family: 'Fira+Mono',sans-serif;
     font-weight: 700;
 }

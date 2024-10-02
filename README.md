@@ -243,53 +243,53 @@ The images I have chosen are to make the site feel safe and welcoming. I have al
 <details open>
 <summary>Neuro-Spicy Desktop Naviagtion bar</summary>  
 
-![Neuro-Spicy Colour Palette](docs/navbar%20desktop.png)
+![Neuro-Spicy Desktop Naviagtion bar](docs/navbar%20desktop.png)
 </details> 
 
 ### **Hero Image**
 
-<details open>
+<details>
 <summary>Neuro-Spicy Hero Image</summary>  
 
-![Neuro-Spicy Colour Palette](docs/hero%20desktop.png)
+![Neuro-Spicy Hero Image](docs/hero%20desktop.png)
 </details> 
 
 ### **Footer**
 
 ### **Hero Image**
 
-<details open>
+<details>
 <summary>Neuro-Spicy Desktop Footer</summary>  
 
-![Neuro-Spicy Colour Palette](docs/deskfoot.png)
+![Neuro-Spicy Desktop Footer](docs/deskfoot.png)
 </details> 
 
 ## Tablet & Mobile View  
 
 ### **Hero Image**
 
-<details open>
+<details>
 <summary>Neuro-Spicy Hero and Navigation Tablet</summary>  
 
-![Neuro-Spicy Colour Palette](docs/tablet%20nav%20and%20hero.png)
+![Neuro-Spicy Hero and Navigation Tablet](docs/tablet%20nav%20and%20hero.png)
 </details> 
 
-<details open>
+<details>
 <summary>Neuro-Spicy Hero and Navigation Phone</summary>  
 
-![Neuro-Spicy Colour Palette](docs/mobileheadnav.png)
+![Neuro-Spicy Hero and Navigation Phone](docs/mobileheadnav.png)
 </details> 
 
-<details open>
+<details >
 <summary>Neuro-Spicy Footer Tablet</summary>  
 
-![Neuro-Spicy Colour Palette](docs/tabfoot.png)
+![Neuro-Spicy Footer Tablet](docs/tabfoot.png)
 </details> 
 
-<details open>
+<details>
 <summary>Neuro-Spicy Hero and Navigation Tablet</summary>  
 
-![Neuro-Spicy Colour Palette](docs/mobilefoot.png)
+![Neuro-Spicy Hero and Navigation Tablet](docs/mobilefoot.png)
 </details> 
  
 ### **Desktop, Tablet & Mobile Differences** 
@@ -352,9 +352,25 @@ screenshot to be added
 
 ### **HTML Validation using W3C Validation**
 
+index.html
+
+![Neuro-Spicy index.html](docs/html%20val.png)
+
+adhd.html
+
+![Neuro-Spicy adhd.html](docs/html%20val.png)
+
+lwaadhd.html
+
+![Neuro-Spicy lwaadhd.html](docs/html%20val.png)
+
 ### **CSS Validation using W3C Validation**
 
+![Neuro-Spicy style.css](docs/css%20val.png)
+
 ### **Lighthouse scores via Chrome Developer Tools**
+
+![Neuro-Spicy index.html](docs/light%20house.png)
 
 ### **Bugs & Fixes**
 
@@ -376,7 +392,7 @@ Logo image and favicon ChatGPT
 Hero image ChatGPT
 
 ADHD
-Photo by Tara Winstead: <a href"https://www.pexels.com/photo/a-notebook-with-notes-about-adhd-8378749"> found on Pexels</a>
+Photo by Tara Winstead: <a href="https://www.pexels.com/photo/a-notebook-with-notes-about-adhd-8378749"> found on Pexels</a>
 
 
 
