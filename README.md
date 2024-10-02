@@ -38,8 +38,6 @@ This proposed website aims to bridge that gap in understanding. By providing rel
   * [HTML Validation using W3C Validation](#html-validation-using-w3c-validation)
   * [CSS Validation using W3C Validation](#css-validation-using-w3c-validation)
   * [Lighthouse scores via Chrome Developer Tools](#lighthouse-scores-via-chrome-developer-tools)
-  * [Bugs & Fixes](#bugs--fixes)
-  * [Unsolved Bugs](#unsolved-bugs)
 * [Credits](#credits) 
 
 ---
@@ -117,21 +115,21 @@ This website is being developed to be simple to use and naviagte. To show inform
 ### Wireframes 
 
 <details open>
-<summary>Wireframe - Homepage Mobile</summary>  
+<summary>Wireframe - Homepage Mobile & Tablet</summary>  
 
-![homepage wireframe - Mobile ](docs/Home%20Page%20Phone.png)
+![homepage wireframe - Mobile & Tablet](docs/Home%20Page%20Phone.png)
 </details> 
 
 <details>
 <summary>Wireframe - Homepage Desktop</summary>  
 
-![homepage wireframe - Desktop & Tablet](docs/Home%20Page%20Tablet_Desktop.png)
+![homepage wireframe - Desktop ](docs/Home%20Page%20Tablet_Desktop.png)
 </details> 
 
 <details >
-<summary>Wireframe - Living with ADHD page Mobile</summary>  
+<summary>Wireframe - Living with ADHD page Mobile & Tablet</summary>  
 
-![ADHD webpage wireframe - Mobile](docs/Living%20with%20ADHD%20-%20Mobile.png)
+![ADHD webpage wireframe - Mobile & Tablet](docs/Living%20with%20ADHD%20-%20Mobile.png)
 
 After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
 
@@ -140,13 +138,13 @@ As you can see from the two wireframes there is a drastic change. This is due to
 I have left the old wireframes in to show the differences.
 
 
-![ADHD webpage wireframe - Mobile](docs/ADHD%20Page%20Phone.png)
+![ADHD webpage wireframe - Mobile & Tablet](docs/ADHD%20Page%20Phone.png)
 </details> 
 
 <details >
 <summary>Wireframe - Living with ADHD page Desktop</summary>  
 
-![ADHD webpage wireframe - Mobile](docs/Living%20with%20ADHD.png)
+![ADHD webpage wireframe - Desktop](docs/Living%20with%20ADHD.png)
 
 After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
 
@@ -154,11 +152,11 @@ As you can see from the two wireframes there is a drastic change. This is due to
 
 I have left the old wireframes in to show the differences.
 
-![homepage wireframe - Desktop & Tablet](docs/ADHD%20Page%20Tablet_Desktop.png)
+![homepage wireframe - Desktop](docs/ADHD%20Page%20Tablet_Desktop.png)
 </details> 
 
 <details >
-<summary>Wireframe - Living with a ADHD page Mobile</summary>  
+<summary>Wireframe - Living with a ADHD page Mobile & Tablet</summary>  
 
 After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
 
@@ -168,7 +166,7 @@ My origanal design was aimed at people who live with a person who has ADHD. I ha
 
 For people who are reading this site with their loved ones I have kept the page simular to the one above. Making it familiar and easy to access the information.
 
-![ADHD webpage wireframe - Mobile](docs/Living%20with%20a%20ADHD%20-%20mobile.png)
+![ADHD webpage wireframe - Mobile & Tablet](docs/Living%20with%20a%20ADHD%20-%20mobile.png)
 </details> 
 
 <details >
@@ -182,7 +180,7 @@ My origanal design was aimed at people who live with a person who has ADHD. I ha
 
 For people who are reading this site with their loved ones I have kept the page simular to the one above. Making it familiar and easy to access the information.
 
-![homepage wireframe - Desktop & Tablet](docs/Living%20with%20a%20ADHD%20.png)
+![homepage wireframe - Desktop](docs/Living%20with%20a%20ADHD%20.png)
 </details> 
 
 ### **5. Surface**  
@@ -203,7 +201,7 @@ The Original colours didn't work for the site. These are the new colours I have 
 
 I changed these due to the way the original colours clashed and feedback from testers.
 
-details >
+<details open>
 <summary>Neuro-Spicy Colour Palette</summary>  
 
 ![Neuro-Spicy Colour Palette](docs/Neuro-SpicyNpalette.png)
@@ -213,7 +211,7 @@ details >
 
 This is the colour palette I chose as my inital colours.
 
-details >
+<details >
 <summary>Neuro-Spicy Colour Palette</summary>  
 
 ![Neuro-Spicy Colour Palette](docs/Neuro-Spicy-palette.png)
@@ -256,8 +254,6 @@ The images I have chosen are to make the site feel safe and welcoming. I have al
 
 ### **Footer**
 
-### **Hero Image**
-
 <details>
 <summary>Neuro-Spicy Desktop Footer</summary>  
 
@@ -274,20 +270,21 @@ The images I have chosen are to make the site feel safe and welcoming. I have al
 ![Neuro-Spicy Hero and Navigation Tablet](docs/tablet%20nav%20and%20hero.png)
 </details> 
 
-<details>
-<summary>Neuro-Spicy Hero and Navigation Phone</summary>  
-
-![Neuro-Spicy Hero and Navigation Phone](docs/mobileheadnav.png)
-</details> 
-
 <details >
-<summary>Neuro-Spicy Footer Tablet</summary>  
+<summary>Neuro-Spicy Footer on Tablet</summary>  
 
 ![Neuro-Spicy Footer Tablet](docs/tabfoot.png)
 </details> 
 
 <details>
-<summary>Neuro-Spicy Hero and Navigation Tablet</summary>  
+<summary>Neuro-Spicy Hero and Navigation on Phone</summary>  
+
+![Neuro-Spicy Hero and Navigation Phone](docs/mobileheadnav.png)
+</details> 
+
+
+<details>
+<summary>Neuro-Spicy Hero and Navigation on Phone</summary>  
 
 ![Neuro-Spicy Hero and Navigation Tablet](docs/mobilefoot.png)
 </details> 
@@ -299,13 +296,10 @@ I kept the differences to a minamul. This is to keep the site ADHD friendly.
 * The Navbar changes from mobile to desktop.
 * The layout changes slightly for the Home and living with a ADHD pages 
 
-### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**
 
-screenshot to be added
+### **Mobile View ** 
 
-### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)** 
-
-screenshot to be added
+![Neuro-Spicy mobile screenshot](docs/mobiless.png)
 
 ## Future Features
 
@@ -342,7 +336,18 @@ screenshot to be added
 
 ## Testing  
 
-### **Initial testing plan**
+Mobile - Bison GT2 PRO
+Mobile - Bison GT
+Mobile - Oppo 
+Mobile - Galaxy Fold - Dev Tools
+
+Tablet - Ipad - Dev tools
+
+laptop - 15 Inch Screen
+laptop - 17 Inch screen
+
+Ultra wide monitor - 34 Inch 3440x1440
+
 
 ### Testing browsers
 
@@ -371,10 +376,7 @@ lwaadhd.html
 ### **Lighthouse scores via Chrome Developer Tools**
 
 ![Neuro-Spicy index.html](docs/light%20house.png)
-
-### **Bugs & Fixes**
-
-### **Unsolved Bugs** 
+ 
 
 ---
 
