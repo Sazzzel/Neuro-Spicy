@@ -129,15 +129,60 @@ This website is being developed to be simple to use and naviagte. To show inform
 </details> 
 
 <details >
-<summary>Wireframe - ADHD page Mobile</summary>  
+<summary>Wireframe - Living with ADHD page Mobile</summary>  
+
+![ADHD webpage wireframe - Mobile](docs/Living%20with%20ADHD%20-%20Mobile.png)
+
+After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
+
+As you can see from the two wireframes there is a drastic change. This is due to the site being to busy and distracting. Taking the people it is targeted towards away from the imformation.
+
+I have left the old wireframes in to show the differences.
+
 
 ![ADHD webpage wireframe - Mobile](docs/ADHD%20Page%20Phone.png)
 </details> 
 
 <details >
-<summary>Wireframe - ADHD page Desktop</summary>  
+<summary>Wireframe - Living with ADHD page Desktop</summary>  
+
+![ADHD webpage wireframe - Mobile](docs/Living%20with%20ADHD.png)
+
+After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
+
+As you can see from the two wireframes there is a drastic change. This is due to the site being to busy and distracting. Taking the people it is targeted towards away from the imformation.
+
+I have left the old wireframes in to show the differences.
 
 ![homepage wireframe - Desktop & Tablet](docs/ADHD%20Page%20Tablet_Desktop.png)
+</details> 
+
+<details >
+<summary>Wireframe - Living with a ADHD page Mobile</summary>  
+
+After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
+
+I now have a page dedicated to Living with ADHD (See wireframes above)
+
+My origanal design was aimed at people who live with a person who has ADHD. I have changed the site to make the information more available and easier to get to. 
+
+For people who are reading this site with their loved ones I have kept the page simular to the one above. Making it familiar and easy to access the information.
+
+![ADHD webpage wireframe - Mobile](docs/Living%20with%20a%20ADHD%20-%20mobile.png)
+</details> 
+
+<details >
+<summary>Wireframe - Living with a ADHD page Desktop</summary>  
+
+After getting feedback from people who live with ADHD. I deciceded to change my website to better cater to the needs of the people who it is aimed towards.
+
+I now have a page dedicated to Living with ADHD (See wireframes above)
+
+My origanal design was aimed at people who live with a person who has ADHD. I have changed the site to make the information more available and easier to get to. 
+
+For people who are reading this site with their loved ones I have kept the page simular to the one above. Making it familiar and easy to access the information.
+
+![homepage wireframe - Desktop & Tablet](docs/Living%20with%20a%20ADHD%20.png)
 </details> 
 
 ### **5. Surface**  
