@@ -199,6 +199,18 @@ I designed a creation process from a non- ADHD point of view. A view from someon
 
 ### **Color Scheme**
 
+The Original colours didn't work for the site. These are the new colours I have used.
+
+I changed these due to the way the original colours clashed and feedback from testers.
+
+details >
+<summary>Neuro-Spicy Colour Palette</summary>  
+
+![Neuro-Spicy Colour Palette](docs/Neuro-SpicyNpalette.png)
+</details> 
+
+
+
 This is the colour palette I chose as my inital colours.
 
 details >
@@ -227,16 +239,65 @@ The images I have chosen are to make the site feel safe and welcoming. I have al
 ## Page Features 
 
 ### **Navbar** 
+ 
+<details open>
+<summary>Neuro-Spicy Desktop Naviagtion bar</summary>  
+
+![Neuro-Spicy Colour Palette](docs/navbar%20desktop.png)
+</details> 
 
 ### **Hero Image**
 
+<details open>
+<summary>Neuro-Spicy Hero Image</summary>  
+
+![Neuro-Spicy Colour Palette](docs/hero%20desktop.png)
+</details> 
+
 ### **Footer**
 
+### **Hero Image**
+
+<details open>
+<summary>Neuro-Spicy Desktop Footer</summary>  
+
+![Neuro-Spicy Colour Palette](docs/deskfoot.png)
+</details> 
+
 ## Tablet & Mobile View  
+
+### **Hero Image**
+
+<details open>
+<summary>Neuro-Spicy Hero and Navigation Tablet</summary>  
+
+![Neuro-Spicy Colour Palette](docs/tablet%20nav%20and%20hero.png)
+</details> 
+
+<details open>
+<summary>Neuro-Spicy Hero and Navigation Phone</summary>  
+
+![Neuro-Spicy Colour Palette](docs/mobileheadnav.png)
+</details> 
+
+<details open>
+<summary>Neuro-Spicy Footer Tablet</summary>  
+
+![Neuro-Spicy Colour Palette](docs/tabfoot.png)
+</details> 
+
+<details open>
+<summary>Neuro-Spicy Hero and Navigation Tablet</summary>  
+
+![Neuro-Spicy Colour Palette](docs/mobilefoot.png)
+</details> 
  
 ### **Desktop, Tablet & Mobile Differences** 
 
+I kept the differences to a minamul. This is to keep the site ADHD friendly.
 
+* The Navbar changes from mobile to desktop.
+* The layout changes slightly for the Home and living with a ADHD pages 
 
 ### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**
 
@@ -248,12 +309,16 @@ screenshot to be added
 
 ## Future Features
 
+* More information to help those with and without ADHD.
+* More Pages to help others with different mental health diagnoses. eg Autisum.
+
 ---
 
 ### **Languages Used**   
 
 - HTML5
 - CSS3
+-JavaScript
 
 ### **Frameworks, Libraries, Technologies & Programs Used** 
 
@@ -270,7 +335,8 @@ screenshot to be added
 * Tiny PNG - to compress images 
 * Dev Tools - to debug and for testing responsiveness 
 * Google Lighthouse - for auditing the website
-* W3C Validator - for validating the HTML and CSS code 
+* W3C Validator - for validating the HTML and CSS code
+* Krita - For touching up the images.
 
 ---   
 
@@ -279,6 +345,10 @@ screenshot to be added
 ### **Initial testing plan**
 
 ### Testing browsers
+
+* Firefox
+* Chrome
+* Edge
 
 ### **HTML Validation using W3C Validation**
 
@@ -293,9 +363,37 @@ screenshot to be added
 ---
 
 ## Credits  
+
+
+Friends and Family img
+Image by <a href="https://pixabay.com/users/alexas_fotos-686414/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1743395">Alexa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1743395">Pixabay</a>
+
+Image by Alexa from Pixabay
+
+
+Logo image and favicon ChatGPT
+
+Hero image ChatGPT
+
+ADHD
+Photo by Tara Winstead: <a href"https://www.pexels.com/photo/a-notebook-with-notes-about-adhd-8378749"> found on Pexels</a>
+
+
+
   
 ### **Content References**
 
-### **Media References**
+Living with 4 people with ADHD and having lived with one of them for 22 years.
+Experiences I have had living with a ADHD 
+
+Someone with ADHD giving an account for what it is like for them. The good, the bad and the ugly.
 
 ### **Acknowledgements**
+
+I would like to thank my laeason for Code Insitute Amy for bringing and potraying confidence everyday, as I think it helps everyone not only feel more confident in themselves but also gives the feeling of I can do this.
+
+I would like to thank my husband for letting me pry into his brain, for being honest with the great things about ADHD but also the bad. This information was invauleable for completeing this website.
+
+I would like to thank my family for putting up with me. 
+
+Also my testers who gave amazing feedback to help me finish this site.
